@@ -1,0 +1,12 @@
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\bin\Debug\Lisanslama.exe.config
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\bin\Debug\Lisanslama.exe
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\bin\Debug\Lisanslama.pdb
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.csproj.AssemblyReference.cache
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.Form1.resources
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.Properties.Resources.resources
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.csproj.GenerateResource.cache
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.csproj.CoreCompileInputs.cache
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.csproj.CopyComplete
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.exe
+C:\Users\gurka\OneDrive\Desktop\Lisanslama\Lisanslama\obj\Debug\Lisanslama.pdb
